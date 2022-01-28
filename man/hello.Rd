@@ -2,14 +2,16 @@
 % Please edit documentation in R/hello.R
 \name{hello}
 \alias{hello}
-\title{Hello World}
+\title{Hello World.}
 \usage{
 hello()
 }
+\value{
+
+}
 \description{
-Hello World
+Hello World.
 }
 \examples{
 hello()
-
 }

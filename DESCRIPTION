@@ -1,7 +1,7 @@
 Package: regexcite
 Type: Package
 Title: Make Regular Expressions More Exciting
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: person("Song", "Zhen", , "skyrealman@gmail.com", role = c("aut", "cre"))
 Description: Convenience functions to make some common tasks with string
     manipulation and regular expressions a bit easier.
