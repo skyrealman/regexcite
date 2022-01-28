@@ -12,6 +12,10 @@ see [stringr](https://stringr.tidyverse.org),
 # regexcite
 
 <!-- badges: start -->
+
+[![Codecov test
+coverage](https://codecov.io/gh/skyrealman/regexcite/branch/master/graph/badge.svg)](https://app.codecov.io/gh/skyrealman/regexcite?branch=master)
+[![R-CMD-check](https://github.com/skyrealman/regexcite/workflows/R-CMD-check/badge.svg)](https://github.com/skyrealman/regexcite/actions)
 <!-- badges: end -->
 
 The goal of regexcite is to make regular expressions more exciting! It
