@@ -10,3 +10,4 @@ test_that("str_split_one() split a string with n = 2", {
   expect_equal(str_split_one(string = "a,b,c", pattern = ",", n = 2), c("a", "b,c"))
   expect_equal(str_split_one(string = "a.b.c", pattern = stringr::fixed(".")), c("a", "b", "c"))
 })
+
